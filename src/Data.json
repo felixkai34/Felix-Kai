@@ -1,0 +1,90 @@
+[
+    { 
+        "id": 1,
+        "src": "pfcard.jpg",
+        "title": "Profile Card", 
+        "usedLan": [ "HTML", "CSS", "JavaScript" ], 
+        "demoLink": "https://profile-card-felixkai34.vercel.app", 
+        "codeLink": "https://github.com/felixkai34/profile-card"
+    },
+    { 
+        "id": 2,
+        "src": "piano.png",
+        "title": "Piano", 
+        "usedLan": [ "HTML", "CSS", "JavaScript" ], 
+        "demoLink": "https://piano-felixkai34.vercel.app/", 
+        "codeLink": "https://github.com/felixkai34/Piano"
+    },
+    { 
+        "id": 3,
+        "src": "sandb.png",
+        "title": "Shine&Bright Technology", 
+        "usedLan": [ "React", "Bootstrap" ], 
+        "demoLink": "https://shine-bright-technology.vercel.app/", 
+        "codeLink": "https://github.com/felixkai34/Shine-Bright-Technology"
+    },
+    { 
+        "id": 4,
+        "src": "plannco.png",
+        "title": "Plannco", 
+        "usedLan": [ "HTML", "CSS", "Bootstrap", "JQuery" ], 
+        "demoLink": "https://plannco.vercel.app/", 
+        "codeLink": "https://github.com/felixkai34/Plannco"
+    },
+    { 
+        "id": 5,
+        "src": "weatherapp.png",
+        "title": "Weather App", 
+        "usedLan": [ "HTML", "CSS", "JavaScript" ], 
+        "demoLink": "https://weather-app-three-weld.vercel.app/", 
+        "codeLink": "https://github.com/felixkai34/Weather-App"
+    },
+    { 
+        "id": 6,
+        "src": "juli.png",
+        "title": "Juli Portfolio", 
+        "usedLan": [ "HTML", "CSS", "JavaScript" ], 
+        "demoLink": "https://juli-portfolio-one.vercel.app/", 
+        "codeLink": "https://github.com/felixkai34/Juli-Portfolio-"
+    },
+    { 
+        "id": 7,
+        "src": "snakes.png",
+        "title": "Snakes", 
+        "usedLan": [ "React", "Tailwind" ], 
+        "demoLink": "https://snakes-delta.vercel.app", 
+        "codeLink": "https://github.com/felixkai34/Snakes"
+    },
+    { 
+        "id": 8,
+        "src": "bf.png",
+        "title": "Burmese Foods", 
+        "usedLan": [ "React", "Tailwind" ], 
+        "demoLink": "https://burmese-foods.vercel.app/", 
+        "codeLink": "https://github.com/felixkai34/Burmese-Foods"
+    },
+    { 
+        "id": 9,
+        "src": "iet.png",
+        "title": "Income Expense Tracker", 
+        "usedLan": [ "React", "Tailwind", "Firebase" ], 
+        "demoLink": "https://income-expense-tracker-silk.vercel.app/", 
+        "codeLink": "https://github.com/felixkai34/income_expense_tracker"
+    },
+    { 
+        "id": 10,
+        "src": "sol.png",
+        "title": "Save Our Lives", 
+        "usedLan": [ "React", "Tailwind" ], 
+        "demoLink": "https://saveourlives.vercel.app/", 
+        "codeLink": "https://github.com/felixkai34/Save-Our-Lives"
+    },
+    { 
+        "id": 11,
+        "src": "mq.png",
+        "title": "Math Quiz", 
+        "usedLan": [ "React", "Tailwind", "Firebase" ], 
+        "demoLink": "https://mathquiz-two.vercel.app", 
+        "codeLink": "https://github.com/felixkai34/MathQuiz"
+    }
+]
